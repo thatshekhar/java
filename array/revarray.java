@@ -1,3 +1,4 @@
+
 public class revarray {
     public static void main(String[] args) {
         int [] arr = {10,30,60,50,40};
